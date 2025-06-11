@@ -1,0 +1,9 @@
+ipykernel
+google-genai
+python-dotenv
+langchain-google-genai
+librosa
+soundfile
+pyaudio
+webrtcvad
+google-adk
