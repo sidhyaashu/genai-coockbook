@@ -1,0 +1,19 @@
+[project]
+name = "adk-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=1.2.1",
+    "google-genai>=1.20.0",
+    "ipykernel>=6.29.5",
+    "langchain-google-genai>=2.1.5",
+    "mcp-proxy>=0.8.0",
+    "mcp-server-fetch>=2025.1.17",
+    "pyaudio>=0.2.14",
+    "python-dotenv>=1.1.0",
+    "soundfile>=0.13.1",
+    "webrtcvad>=2.0.10",
+    "websockets>=15.0.1",
+]

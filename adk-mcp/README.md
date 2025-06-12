@@ -1,0 +1,1 @@
+# https://medium.com/@ssupinma/implementing-google-adk-and-mcp-on-windows-a-practical-guide-e27e78d1b165
