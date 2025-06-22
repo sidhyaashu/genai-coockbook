@@ -1,0 +1,15 @@
+[project]
+name = "davi-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "davia>=0.1.14",
+    "langchain>=0.3.26",
+    "langchain-core>=0.3.66",
+    "langchain-google-genai>=2.1.5",
+    "langchain-openai>=0.3.24",
+    "langgraph>=0.3.34",
+    "langgraph-api==0.0.38",
+]

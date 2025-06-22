@@ -1,0 +1,7 @@
+langgraph
+langchain-google-genai
+langchain-openai
+langchain
+langchain-core
+davia
+langgraph-api==0.0.38
