@@ -1,0 +1,14 @@
+langchain-core 
+langgraph
+langchain
+langchain[google-genai]
+ipykernel
+python-dotenv
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+bs4
+langchain-community
+langchain-tavily
+langchain-mcp-adapters
+mcp
