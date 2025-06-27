@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "scrapegraph-mcp": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@ScrapeGraphAI/scrapegraph-mcp",
+        "--key",
+        "d8a7a2aa-5d09-438d-b469-24afdc58fae5",
+        "--profile",
+        "unlikely-amphibian-RdZBlJ"
+      ]
+    }
+  }
+}
