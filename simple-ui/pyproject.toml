@@ -1,0 +1,11 @@
+[project]
+name = "simple-ui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "davia>=0.1.14",
+    "langgraph>=0.3.34",
+    "langgraph-api==0.0.38",
+]

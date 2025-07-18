@@ -48,7 +48,7 @@ function base64ToArrayBuffer(base64) {
 class GeminiLiveAssistant {
   constructor() {
     // Hardcoded API key for testing - REPLACE WITH YOUR KEY
-    this.apiKey = '....';
+    this.apiKey = '';
     this.session = null;
     this.isRecording = false;
     this.isSetupComplete = false;
